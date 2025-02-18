@@ -6,6 +6,8 @@
 
 This dashboard is created to monitor casino perfromance in weekly, monthly and yeraly basis. Perfomance indicators include Theoritical Win, Actual Win, number of Unique players and Average Daily Theoritical Win.
 
+The dashboard 
+
 
 ### Steps followed 
 
