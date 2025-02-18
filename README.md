@@ -1,6 +1,6 @@
 ## 🎰 Gaming Performance Monthly & Yearly Monitoring
 
-This Power BI dashboard provides insights into **gaming performance metrics** by analyzing **Unique Players, Coin In, and Win Statistics** across different nationalities and gaming areas.
+This Power BI dashboard provides insights into **gaming performance metrics** by analyzing **Unique Players, Theoritical Win, Actual Win and Coin In Statistics** across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
 
 ---
 
@@ -52,14 +52,4 @@ This Power BI dashboard provides insights into **gaming performance metrics** by
 
 ---
 
-## 📅 Future Improvements
-- Add **forecasting models** for player and revenue trends.  
-- Integrate **real-time data streaming** for live insights.  
-- Enhance **user interactivity** with drill-down filters.  
 
----
-
-## 📧 Contact
-For questions or collaborations, reach out via **[your email]** or open an **issue** on GitHub!  
-
----
