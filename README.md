@@ -16,6 +16,7 @@ This Power BI dashboard provides insights into **gaming performance metrics** by
 - Measures the total **bet amount ("Coin In")** by nationality.
 - Evaluates performance against **P1W, P2W, and P3W**.
 - Highlights **percentage change trends**.
+- Monitor Total Coin in by month and by year.
 
 ### 🔹 Gaming Types & Areas
 - **Game Types**: Slot, Table
