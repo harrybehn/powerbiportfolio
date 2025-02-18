@@ -7,9 +7,10 @@ This Power BI dashboard provides insights into **gaming performance metrics** by
 ## 📊 Dashboard Overview
 
 ### 🔹 Unique Player Analysis
-- Tracks unique players by **nationality** (Philippines, USA, Others).
-- Compares player count against **previous weeks** (P1W, P2W, P3W).
+- Monitor unique players by **nationality** (Philippines, USA, Others).
+- Compares Unique player count against **previous weeks** (P1W, P2W, P3W).
 - Shows **percentage change** vs. the same day last week.
+- Monitor Unique Player count by month and by year.
 
 ### 🔹 Coin In Analysis
 - Measures the total **bet amount ("Coin In")** by nationality.
