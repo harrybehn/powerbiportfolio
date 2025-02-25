@@ -71,6 +71,12 @@ See dashboard screenshot
   ![Image](https://github.com/user-attachments/assets/f2538be6-c8eb-47d2-97e3-d0512b70df08)
 
 ### Step 3.3 :
-- **Create Visualization**.
-- Use Matrix visual to visualize Unique Players by nationality and by datarange.
-- 
+- **Create Visualization for Weekly Gaming performance**.
+- Use Matrix visual to visualize Unique Players by nationality and by DataRange.
+ ![Image](https://github.com/user-attachments/assets/ac00bf95-5bec-41d7-8802-a538a14956c2)
+
+### Step 3.4 :
+- **Create Visualization for Weekly Percentage Change**.
+- Create measures for Weekly Percentage Change for Unique Player Count
+  ![Image](https://github.com/user-attachments/assets/472d0991-26f8-4e96-aa76-16f2181474a2)
+- Do the same for TheoWin, Actual Win and Coin In
