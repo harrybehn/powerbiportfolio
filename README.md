@@ -2,15 +2,15 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
-This Power BI dashboard is one of the projects that i created in my current job as a Data Analyst in an integrated resort but using fictional data. This dashboard provides insights into **gaming performance metrics** by analyzing **Unique Players, Theoritical Win, Actual Win and Coin In Statistics** across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
+This Power BI dashboard is one of the projects that i created in my current job as a Data Analyst in an integrated resort but using fictional data. This dashboard provides insights into **gaming performance metrics** by analyzing **Unique Player count, Theoritical Win, Actual Win and Coin In Statistics** across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
 
 ---
 
 ## 📊 Dashboard Overview
 
 ### 🔹 Unique Players, Theo Win, Actual Win & Coin In Analysis
-- Monitor unique players, Theo Win, Actual Win & Coin In by **nationality** (Philippines, USA, Others).
-- Compares Unique player, Theo Win, Actual Win & Coin In against **previous weeks** (P1W, P2W, P3W).
+- Monitor Unique Player, Theo Win, Actual Win & Coin In by **nationality** (Philippines, USA, Others).
+- Compares Unique Player count, Theo Win, Actual Win & Coin In against **previous weeks** (P1W, P2W, P3W).
 - Shows **percentage change** vs. the same day last week.
 
 See dashboard screenshot
@@ -80,3 +80,10 @@ See dashboard screenshot
 - Create measures for Weekly Percentage Change for Unique Player Count
   ![Image](https://github.com/user-attachments/assets/472d0991-26f8-4e96-aa76-16f2181474a2)
 - Do the same for TheoWin, Actual Win and Coin In
+
+### Step 3.5 :
+- **Conditional Formatting for Weekly Percentage Change**.
+- Create conditional formatting for Font Color.
+  ![Image](https://github.com/user-attachments/assets/8b28f090-4437-4d5b-8823-50a4fd5c63bc)
+- Add Icon using Conditional Formatting.
+  ![Image](https://github.com/user-attachments/assets/0ee9285a-65a5-4e46-bc53-5af6bf2b1983)
