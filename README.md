@@ -87,3 +87,11 @@ See dashboard screenshot
   ![Image](https://github.com/user-attachments/assets/8b28f090-4437-4d5b-8823-50a4fd5c63bc)
 - Add Icon using Conditional Formatting.
   ![Image](https://github.com/user-attachments/assets/0ee9285a-65a5-4e46-bc53-5af6bf2b1983)
+
+### Step 3.6 :
+- **Create Slicer**.
+- Create slicers for Game Type and Gaming Area
+  
+![Image](https://github.com/user-attachments/assets/b68267e3-0cb2-45c6-912d-90d5542db634)
+
+### Step 4 :Monthly and Yearly Performance
