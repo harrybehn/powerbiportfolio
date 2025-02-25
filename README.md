@@ -42,8 +42,35 @@ See dashboard screenshot
 
 ---
 
-### Steps followed 
+## Steps followed 
 
-- Step 1 : Load data into Power BI Desktop.
-- Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+### Step 1 : 
+- **Load data into Power BI Desktop**.
+- I use excel files in this project but in my actual work I would extract data from sql server and I would usually use native query for optimization.
+- I used three datasets for this project namely, PlayerGamingSession1, Player, Nationality and PlayerGamingSession2. 
+- PlayerGamingSession1 contains the columns PlayerID, Win(Actual Win), TheoWin, GamingArea, GameType and Dateplayed.
+- PlayerGamingSession2 contains the columns PlayerID, Win(Actual Win), TheoWin, GamingArea, GameType, Month and Year.
+- Player contains columns PlayerID and NationalityCode. Nationality contains columns NationalityCode and description.
 
+### Step 2 :
+- **Merge Queries**.
+-  Next step is to merge Nationality table to Player table using the nationalitycode column to get the nationality description.
+- Then merge Player table to PlayerGamingSession1 and PlayerGamingSession2. Close and Apply.
+
+### Step 3 : Weekly Monitoring
+### Step 3.1
+- **Create Calculated Columns**.
+- Create NationalityGroup column to group the nationaties into Philippines, USA and others.
+  ![Image](https://github.com/user-attachments/assets/155a747f-41e3-4a3c-8ed9-1860eee9389a)
+- Create DateRange column to compare weekly performance. I used a fixed date in this project but in my work I use a dynamic date using this dax formula: Yesterday = today() - 1, P1W = today() - 8, ..etc.
+  ![Image](https://github.com/user-attachments/assets/12bd71c2-94be-4fac-add3-4eb2a226fb23)
+
+### Step 3.2 :
+- **Create Measures**.
+- Create measures for total Unique Players, total TheoWin, total Actual Win and total Coin In.
+  ![Image](https://github.com/user-attachments/assets/f2538be6-c8eb-47d2-97e3-d0512b70df08)
+
+### Step 3.3 :
+- **Create Visualization**.
+- Use Matrix visual to visualize Unique Players by nationality and by datarange.
+- 
