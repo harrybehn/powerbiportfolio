@@ -21,7 +21,7 @@ See dashboard screenshot
 - **Gaming Areas**: Mass Gaming, VIP Areas 1-4
 
 ### 📈 Trends & Visualizations
-- **Bar charts** compare **yearly trends (2016, 2017, 2018)**.
+- **Bar charts** compare **yearly trends (2022, 2023, 2024)**.
 - Tracks **monthly Coin In performance** for **overall and by nationality**.
 - Shows **growth or decline trends**.
   
@@ -95,3 +95,14 @@ See dashboard screenshot
 ![Image](https://github.com/user-attachments/assets/b68267e3-0cb2-45c6-912d-90d5542db634)
 
 ### Step 4 :Monthly and Yearly Performance
+- **Create a Measure Slicer**
+- I created a measure slicer so the viewer can see the **Unique Player** count, **Theowin**, **Actual Win** and **Coin In** yearly and monthly performance in one page.
+- First step is to create a table with **Unique Player**, **TheoWin**, **Actual Win** and **Coin In** as olumns
+  
+  ![Image](https://github.com/user-attachments/assets/54ce1546-17b6-4d05-9f12-1ae02d00ccfa)
+- Next Is to create a measure that retrieves the selected value from the MeasureSelection[MeasureName] column.
+  
+  ![Image](https://github.com/user-attachments/assets/663558fd-47e5-4567-b275-10db40d37710)
+- Then finally create a measure that will dynamically switches between columns
+
+  ![Image](https://github.com/user-attachments/assets/9d358501-8ffb-44e8-a514-3ea390c2adfa)
