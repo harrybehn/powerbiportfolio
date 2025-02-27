@@ -106,3 +106,19 @@ See dashboard screenshot
 - Then finally create a measure that will dynamically switches between columns
 
   ![Image](https://github.com/user-attachments/assets/9d358501-8ffb-44e8-a514-3ea390c2adfa)
+
+### Step 5 :
+- **Create Bar Chart**
+-  I created bar charts to compare the monthly performance and yearly performance using the year column, monthname column and the measure that i just created which is DisplayMeasure
+- Monthly comparison
+
+![Image](https://github.com/user-attachments/assets/9466faaa-3063-4898-89ab-348bff3d21a7)
+- Yearly Comparison
+  
+  ![Image](https://github.com/user-attachments/assets/68a0ee55-7b2e-4a15-86dc-bdadac8627de)
+- By Nationality
+
+  ![Image](https://github.com/user-attachments/assets/00ef398b-1394-4455-bd3d-e1c9b2b7e907)
+- Slicer
+
+  ![Image](https://github.com/user-attachments/assets/cb0db8a5-caf6-4f4b-a534-aad5ebd6c246)
