@@ -2,7 +2,7 @@
 
 ### SQL Script Link : 
 
-This Power BI dashboard is one of the projects that i created in my current job as a Data Analyst in an integrated resort but using fictional data. This dashboard provides insights into **gaming performance metrics** by analyzing **Unique Player count, Theoritical Win, Actual Win and Coin In Statistics** across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
+This Power BI dashboard is one of the projects that I created in my current job as a Data Analyst in an integrated resort but using fictional data. This dashboard provides insights into **gaming performance metrics** by analyzing **Unique Player count, Theoritical Win, Actual Win and Coin In Statistics** across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
 
 ---
 
