@@ -1,6 +1,6 @@
 ##  Gaming Performance Monthly & Yearly Monitoring
 
-##[Dashboard link](https://hannresortsphil-my.sharepoint.com/:u:/g/personal/harry_francisco_hannresorts_com/EcfNFOynRvVGnwk_nezD-W8BP2be3t6heyHGnTq7IfB8fw?e=CZsfMo)
+[Dashboard link](https://hannresortsphil-my.sharepoint.com/:u:/g/personal/harry_francisco_hannresorts_com/EcfNFOynRvVGnwk_nezD-W8BP2be3t6heyHGnTq7IfB8fw?e=CZsfMo)
 
 This Power BI dashboard is one of the projects that I created in my current job as a Data Analyst in an integrated resort but using fictional data. This dashboard provides insights into **gaming performance metrics** by analyzing **Unique Player count, Theoritical Win, Actual Win and Coin In Statistics** across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
 
