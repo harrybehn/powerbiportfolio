@@ -1,4 +1,4 @@
-##  Gaming Performance Monthly & Yearly Monitoring
+##  Player Gaming Performance Monitoring
 
 [Dashboard link](https://hannresortsphil-my.sharepoint.com/:u:/g/personal/harry_francisco_hannresorts_com/EcfNFOynRvVGnwk_nezD-W8BP2be3t6heyHGnTq7IfB8fw?e=CZsfMo)
 
